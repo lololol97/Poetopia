@@ -1,3 +1,3 @@
 # Poetopia
 
-This is the worst repo, dont go here...
+This is the best repo.
